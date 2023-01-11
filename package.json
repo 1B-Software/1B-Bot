@@ -1,0 +1,26 @@
+{
+  "name": "1b_bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot designed for the 1B Software Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "?run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1B-Software/1B-Bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "1B Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1B-Software/1B-Bot/issues"
+  },
+  "homepage": "https://github.com/1B-Software/1B-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
